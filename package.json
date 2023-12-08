@@ -1,5 +1,5 @@
 {
-  "name": "axios-api-request",
+  "name": "axios-client-api",
   "version": "1.0.0",
   "description": "HTTP request for client",
   "keywords": [
@@ -17,6 +17,13 @@
   },
   "author": "Sokhay Try",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sokhay-try/axios-api-request.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sokhay-try/axios-api-request/issues"
+  },
   "dependencies": {
     "@types/node": "^20.10.4",
     "axios": "^1.6.2"
